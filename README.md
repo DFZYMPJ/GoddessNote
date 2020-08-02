@@ -7,8 +7,13 @@
 <p>你需要Python37解释器</p>
 <p>你需要安装相应的库在命令行下输入：</p>
 <code>pip install wxpython</code>
+<br>
 <code>pip install peewee</code>
+<br>
 <code>pip install pypubsub</code>
+<br>
 <code>pip install cefpython</code>
+<br>
 <code>pip install whoosh</code>
+<br>
 <code>pip install jieba</code>
