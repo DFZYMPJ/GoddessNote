@@ -18,4 +18,4 @@
 <br>
 <code>pip install jieba</code>
 <br>
-原作者：<a src="https://www.zhihu.com/people/ac2190/posts">使用wxPython打造印象笔记（16）完善笔记列表</a>
+原作者：<b>使用wxPython打造印象笔记（16）完善笔记列表(https://www.zhihu.com/people/ac2190/posts)</b>
